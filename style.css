@@ -1,0 +1,82 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 20px;
+  background: #5ac4f2;
+}
+
+
+h1{
+  text-align: center;
+  margin: 1.5em;
+  font-size: 30px;
+}
+
+
+.box{
+  display: inline-block;
+  padding: 5px;
+  /* border: 1px solid blue; */
+  width: 20%;
+  border-radius: 8px;
+  margin-left: 50px;
+}
+
+
+.box2{
+  display: inline-block;
+  padding: 5px;
+  /* border: 1px solid red; */
+  width: 35%;
+  border-radius: 8px; 
+  margin-left: 270px;
+  margin-right: 50;
+}
+
+
+#Nai-Aita{
+  margin: 1.5em;
+  font-size: 30px;
+}
+
+
+#Brandon-Omar{
+  margin: 1.5em;
+  font-size: 30px;
+}
+
+
+#JC-Yeimy{
+  margin: 1.5em;
+  font-size: 30px;
+}
+
+
+#EhThro-Robyn{
+  margin: 1.5em;
+  font-size: 30px;
+}
+
+
+#Dan-Jimena{
+  margin: 1.5em;
+  font-size: 30px;
+}
+
+
+#Odalis-Karen{
+  margin: 1.5em;
+  font-size: 30px;
+}
+
+
+#Dany-Oldair{
+  margin: 1.5em;
+  font-size: 30px;
+}
+
+
+#Future-Faiz{
+  margin: 1.5em;
+  font-size: 30px;
+}
